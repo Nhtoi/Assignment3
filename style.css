@@ -59,9 +59,9 @@ p {
 }
 
 #home-ptwo {
-    padding-left: 1000px; /* Keep your padding value */
+    padding-left: 1000px;
     position: relative;
-    top: -780px; /* Adjust this value to lift it higher */
+    top: -780px; 
     text-align: center;
     color: white;
     font-size: 25px;
@@ -98,5 +98,5 @@ h1 {
     width: 500px;
     height: 570px;
     padding-left: 1000px;
-    top: -700px; /* Adjust this value to lift it higher */
+    top: -700px; 
 }
