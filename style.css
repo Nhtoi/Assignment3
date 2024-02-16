@@ -1,0 +1,102 @@
+body {
+    background-color: rgb(36, 34, 34);
+    text-align: center;
+}
+
+nav {
+    background-image: url("./Images/logo.png");
+    background-repeat: no-repeat;
+    background-size: 75px;
+    margin-top: 0px;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    border-top: none;  
+    border-color: white;
+    background-color: rgb(208, 54, 54);
+    height: 75px;
+    text-align: left; 
+
+}
+
+a {
+    padding-left: 150px;
+    color: white;
+    font-size: 50px;
+}
+
+#banner {
+    margin: 0 auto; 
+    width: 650px;
+    height: 250px;
+    text-align: center; 
+}
+
+#card {
+    width: 500px;
+    height: 570px;
+}
+
+#packs {
+    margin-top: 50px;
+    width: 500px;
+    height: 570px;
+}
+p {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+#home-p{
+    padding-top: 45px;
+    padding-right: 1000px;
+    color: white;
+    font-size: 25px;
+    max-width: 20%;
+    margin: 0 auto; 
+    word-wrap: break-word;
+}
+
+#home-ptwo {
+    padding-left: 1000px; /* Keep your padding value */
+    position: relative;
+    top: -780px; /* Adjust this value to lift it higher */
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    max-width: 20%;
+    margin: 0 auto;
+    word-wrap: break-word;
+}
+
+
+#about-p{
+    padding-top: 45px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    max-width: 50%; 
+    margin: 0 auto; 
+    word-wrap: break-word;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+#packs2 {
+    padding-top: 50px;
+    padding-right: 1050px;
+    padding-bottom: 0;
+    width: 500px;
+    height: 570px;
+}
+#packs3 {
+    position: relative;
+    padding-top: 0;
+    width: 500px;
+    height: 570px;
+    padding-left: 1000px;
+    top: -700px; /* Adjust this value to lift it higher */
+}
